@@ -11,6 +11,18 @@ $(window).scroll(function() {
 });
 
 window.onload=function(){
+  if (window.screen.width < 660)
+  {
+    document.getElementById("menu").style.display = 'none';
+  }
+  else
+  {
+    document.getElementById("touchon").style.display = '';
+    document.getElementById("about").style.display = '';
+  }
+}
+
+function disonload(){
   if (window.screen.width < 660) {
     if(window.screen.width < 367)
     {
