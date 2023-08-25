@@ -11,5 +11,10 @@ $(window).scroll(function() {
 });
 
 window.onload=function(){
+  
+}
+
+function initheader()
+{
   document.getElementById("touchon").style.display = false;
 }
