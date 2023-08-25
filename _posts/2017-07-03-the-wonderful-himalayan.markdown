@@ -2,7 +2,7 @@
 layout: post
 title: "袜元素"
 img: himalayan.jpg # Add image post (optional)
-date: 时间层面的简短介绍 #
+date: 2017-07-04 12:54:00 +0300 #
 brif: 这是一个简短的介绍
 description: 这里是袜元素的描述. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
