@@ -11,7 +11,7 @@ $(window).scroll(function() {
 });
 
 window.onload=function(){
-  if (window.screen.width < 500) {
+  if (window.screen.width < 660) {
     document.getElementById("touchon").style.visibility = 'hidden';
   }
 }
