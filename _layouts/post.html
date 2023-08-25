@@ -55,7 +55,7 @@ layout: default
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
               style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} );">
-                <span style="background-color: rgba(38, 38, 38, 0.5);">{{ post.title }}</span>
+                <span style="background-color: rgba(38, 38, 38, 0.5);font-weight: bolder;">{{ post.title }}</span>
             </a>
           {% endif %}
         {% endfor %}
