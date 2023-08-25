@@ -3,8 +3,8 @@ layout: main
 ---
 
 {% for post in paginator.posts %}
+<h2 class="recent_title" style="color: white; font-weight: bolder;">- 主营产品 -</h2>
   <div class="chapter">
-    <span>- 主营产品 -</span>
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}
         <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
