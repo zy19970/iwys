@@ -19,6 +19,8 @@ window.onload=function(){
     else
     {
       document.getElementById("about").style.display = '';
+      document.getElementById("touchon").style.display = '';
+      document.getElementById("touchon").style.visibility = 'hidden';
     }
   }
   else
