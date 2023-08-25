@@ -4,6 +4,7 @@ layout: main
 
 {% for post in paginator.posts %}
   <div class="chapter">
+    <span>- 主营产品 -</span>
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}
         <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
