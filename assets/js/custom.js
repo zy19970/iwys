@@ -9,3 +9,7 @@ $(window).scroll(function() {
     $('.top').removeClass("up");
   }
 });
+
+window.onload=function(){
+  document.getElementById("touchon").style.display = false;
+}
