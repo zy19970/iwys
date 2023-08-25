@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/iwys/the-wonderful-himalayan/</loc>
-<lastmod>2017-07-03T09:55:00+00:00</lastmod>
-</url>
-<url>
 <loc>/iwys/texas-grand-canyon/</loc>
 <lastmod>2017-07-04T09:54:00+00:00</lastmod>
 </url>
@@ -23,6 +19,10 @@
 <url>
 <loc>/iwys/nevada-on-the-way-to-nevada/</loc>
 <lastmod>2017-07-11T09:50:00+00:00</lastmod>
+</url>
+<url>
+<loc>/iwys/2017-07-03-the-wonderful-himalayan/</loc>
+<lastmod>2023-08-25T07:43:37+00:00</lastmod>
 </url>
 <url>
 <loc>/iwys/about/</loc>
