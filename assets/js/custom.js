@@ -18,7 +18,12 @@ window.onload=function(){
     }
     else
     {
-      document.getElementById("touchon").style.visibility = 'hidden';
+      document.getElementById("about").style.display = '';
     }
+  }
+  else
+  {
+    document.getElementById("touchon").style.display = '';
+    document.getElementById("about").style.display = '';
   }
 }
