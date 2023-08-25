@@ -11,11 +11,5 @@ $(window).scroll(function() {
 });
 
 window.onload=function(){
-  document.getElementById("touchon").style.display = false;
-console.log(document.getElementById("touchon").style.display);
-}
-
-function initheader()
-{
-  document.getElementById("touchon").style.display = false;
+  document.getElementById("touchon").style.display = 'none';
 }
