@@ -11,5 +11,7 @@ $(window).scroll(function() {
 });
 
 window.onload=function(){
-  document.getElementById("touchon").style.visibility = 'hidden';
+  if (window.screen.width < 500) {
+    document.getElementById("touchon").style.visibility = 'hidden';
+  }
 }
