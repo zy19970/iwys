@@ -10,9 +10,9 @@ layout: main
       {% endif %}
     </a>
     <a href="{{post.url | prepend: site.baseurl}}">
-      <div class="chapter_inner">
-
-        <h3 class="chapter_title" style="background-color: rgba(38, 38, 38, 0.5);">{{post.title}}</h3>
+      <div class="chapter_inner" style="background-color: rgba(38, 38, 38, 0.5);">
+        <p class="chapter_number">{{post.brif}}</p>
+        <h3 class="chapter_title" >{{post.title}}</h3>
       </div>
     </a>
   </div>
