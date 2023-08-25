@@ -11,5 +11,5 @@ $(window).scroll(function() {
 });
 
 window.onload=function(){
-  document.getElementById("touchon").style.display = 'none';
+  document.getElementById("touchon").style.visibility = 'hidden';
 }
