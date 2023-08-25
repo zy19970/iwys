@@ -14,7 +14,7 @@ window.onload=function(){
   if (window.screen.width < 660) {
     if(window.screen.width < 367)
     {
-      document.getElementById("touchon").style.display = 'none';
+      document.getElementById("touchon").innerText = "";
     }
     else
     {
