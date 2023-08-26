@@ -8,12 +8,11 @@ layout: default
     <header>
       
         {% if post.link %}
-        <div class="post_image">
+        <div class="post_image" id="link">
           <img src="{{post.link}}" alt="{{post.title}}">
-        </div>
-        
+        </div>      
         {% else %}
-        <div class="post_image">
+        <div class="post_image" id = "img">
           <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
         </div>
         {% endif %}
