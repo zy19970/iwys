@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: 袜元素# add banner title
+banner-title: 袜元素 遇恋 芭贝亲亲 棉皇后 # add banner title
 banner-desc: # add banner description
 
 # Author settings
@@ -18,6 +18,11 @@ about-author: 鼓励多样性和包容性，为不同体型、喜好和需求的
 email: your-email@domain.com # your email
 phone: 微信号：cwc191413 # your pnone number
 website: 微信小程序搜索：袜元素商店 # you website
+
+# CEO settings
+CEO-name: 富裕灵
+CEO-img:  #
+CEO-about:  #
 
 # Social link
 google_url:    # add url link
