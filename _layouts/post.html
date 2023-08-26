@@ -13,7 +13,7 @@ layout: default
         </div>
         {% else %}
         <div class="post_image">
-          <img src='{{post.link}}' alt="{{post.title}}">
+          <img src="{{post.link}}" alt="{{post.title}}">
         </div>
         {% endif %}
 
@@ -34,14 +34,14 @@ layout: default
         <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{ site.author-pic }}{% endif %}" alt="Author face">
       </div>
       <div class="author_info">
-        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Dwayne Newman{% endif %}</h2>
-        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}La croix godard blue bottle, vape iceland fingerstache cronut single-origin coffee lyft snackwave normcore small batch.{% endif %}</p>
+        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}总代理{% endif %}</h2>
+        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}予力每一个伙伴，不断突破行业创新边界.{% endif %}</p>
         <div class="author_social">
           
           {% if site.phone %}
           <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{site.phone}}">{{site.phone}}</a></span>
           {% else %}
-          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+496-169-65-57">(496)-169-6557</a></span>
+          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="">(496)-169-6557</a></span>
           {% endif %}
 
           {% if site.website %}
