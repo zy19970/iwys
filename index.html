@@ -8,7 +8,7 @@ layout: main
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}
         <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-        {% else %}
+      {% else %}
         <img src={{post.link}} alt="{{post.title}}">
       {% endif %}
     </a>
