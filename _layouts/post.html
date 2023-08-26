@@ -12,9 +12,7 @@ layout: default
           <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
         </div>
         {% else %}
-        <div class="post_image">
-          <img src="{{append: post.link}}" alt="{{append: post.title}}">
-        </div>
+
         {% endif %}
 
       <div class="post_description">
