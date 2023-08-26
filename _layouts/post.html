@@ -7,15 +7,10 @@ layout: default
   <article class="post">
     <header>
       
-        {% if post.link %}
-        <div class="post_image" id="link">
-          <img src="{{post.link}}" alt="{{post.title}}">
-        </div>      
-        {% else %}
         <div class="post_image" id = "img">
           <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
         </div>
-        {% endif %}
+
 
       <div class="post_description">
         <h1 class="post_title">{{page.title}} | {{page.brif}}</h1>
