@@ -7,7 +7,11 @@ layout: default
   <article class="post">
     <header>
       <div class="post_image">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+        {% if post.img %}
+          <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+        {% else %}
+          <img src={{post.link}} alt="{{post.title}}">
+        {% endif %}
       </div>
       <div class="post_description">
         <h1 class="post_title">{{page.title}} | {{page.brif}}</h1>
@@ -59,7 +63,7 @@ layout: default
               {% else %}
                 <a href="{{ post.url | prepend: site.baseurl }}"
                   class="recent_item"
-                  style="background-image: url( src={{post.link}});">
+                  style="background-image: url( {{post.link}});">
               {% endif %}
               <span style="background-color: rgba(38, 38, 38, 0.5);font-weight: bolder;">{{ post.title }}</span>
             </a>
