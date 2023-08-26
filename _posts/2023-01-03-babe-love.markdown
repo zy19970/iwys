@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "芭贝亲亲"
-img: ./3/main.jpg # Add image post (optional)
+img: /3/main.jpg # Add image post (optional)
 date: 2023-01-03 12:51:00 +0300
 brif: 亲肤之选,守护女性健康
 description: 亲肤之选,守护女性健康|  # Add post description (optional)

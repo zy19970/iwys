@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "遇恋-内衣"
-img: ./2/main.jpg # Add image post (optional)
+img: /2/main.jpg # Add image post (optional)
 date: 2023-01-02 12:53:00 +0300
 brif: 拥抱亲密，拥抱爱 
 description: 拥抱亲密，拥抱爱| Embrace Intimacy, Embrace Love. # Add post description (optional)

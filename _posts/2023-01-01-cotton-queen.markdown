@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "棉皇后"
-img: ./1/main.jpg # Add image post (optional)
+img: /1/main.jpg # Add image post (optional)
 date: 2023-01-01 12:52:00 +0300
 brif: 皇后的优雅,源于舒适 
 description: 皇后的优雅,源于舒适|Luxury and Comfort, Fit for a Queen. # Add post description (optional)
