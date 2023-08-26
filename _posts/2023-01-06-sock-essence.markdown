@@ -7,7 +7,9 @@ brif: 步入舒适,步入时尚
 description: 步入舒适,步入时尚| Step into Comfort. Step into Style. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
 ---
-[![Pic](https://s1.ax1x.com/2023/05/11/p9rNdaQ.png)](https://imgse.com/i/p9rNdaQ)
+[![Pic](https://s1.ax1x.com/2023/05/11/p9rNdaQ.png)](https://imgse.com/i/p9rNdaQ){ width=50% height=auto }
+
+<img src="https://s1.ax1x.com/2023/05/11/p9rNdaQ.png" width="50%" height="auto">
 
 > Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
 
