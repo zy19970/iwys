@@ -13,7 +13,7 @@ layout: default
         </div>
         {% else %}
         <div class="post_image">
-          <img src="{{post.link}}" alt="{{post.title}}">
+          <img src="{{append: post.link}}" alt="{{append: post.title}}">
         </div>
         {% endif %}
 
