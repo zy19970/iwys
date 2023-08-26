@@ -7,10 +7,16 @@ layout: default
   <article class="post">
     <header>
       
-        <div class="post_image">
-          <img src="{{ "/assets/img/" | prepend: site.baseurl | append : page.img}}" alt="{{post.title}}">
-        </div>
 
+        {% if post.link %}
+        <div class="post_image" id="link">
+          <img src="{{page.link}}" alt="{{page.title}}">
+        </div>      
+        {% else %}
+        <div class="post_image" id = "img">
+          <img src={{ "/assets/img/" | prepend: site.baseurl | append: page.img }} alt="{{page.title}}">
+        </div>
+        {% endif %}
 
       <div class="post_description">
         <h1 class="post_title">{{page.title}} | {{page.brif}}</h1>
