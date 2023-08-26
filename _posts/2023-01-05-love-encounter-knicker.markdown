@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "遇恋-内裤"
+img: ./5/main.jpg
 link: 'https://s1.ax1x.com/2023/08/26/pPNB4ij.jpg' # Add image post (optional)
 date: 2023-01-05 12:54:00 +0300
 brif: 内在的力量，外在的自信 
