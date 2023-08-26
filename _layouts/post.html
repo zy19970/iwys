@@ -52,10 +52,16 @@ layout: default
       <div class="recent_list">
         {% for post in site.posts offset:0 limit:6 %}
           {% if post.title %}
-            <a href="{{ post.url | prepend: site.baseurl }}"
-              class="recent_item"
-              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} );">
-                <span style="background-color: rgba(38, 38, 38, 0.5);font-weight: bolder;">{{ post.title }}</span>
+            {% if post.img %}
+              <a href="{{ post.url | prepend: site.baseurl }}"
+                class="recent_item"
+                style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} );">
+              {% else %}
+                <a href="{{ post.url | prepend: site.baseurl }}"
+                  class="recent_item"
+                  style="background-image: url( src={{post.link}});">
+              {% endif %}
+              <span style="background-color: rgba(38, 38, 38, 0.5);font-weight: bolder;">{{ post.title }}</span>
             </a>
           {% endif %}
         {% endfor %}
