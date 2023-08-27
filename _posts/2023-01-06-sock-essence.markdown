@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "袜元素"
-img: /6/main.jpg # Add image post (optional)
+#img: /6/main.jpg # Add image post (optional)
+link: 'https://s1.ax1x.com/2023/08/26/pPNZrnS.jpg'
 date: 2023-01-06 12:54:00 +0300 #
 brif: 步入舒适,步入时尚 
 description: 步入舒适,步入时尚| Step into Comfort. Step into Style. # Add post description (optional)
