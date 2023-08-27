@@ -4917,7 +4917,7 @@ cite {
   }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 800px) {
   .wechat {
     width: 80%;
     height: 80%;
