@@ -43,6 +43,8 @@ function disonload(){
 
   if (window.screen.width < 500)
   {
-    document.getElementById("socialsologn").style.display='';
+    document.getElementById("socialsologn1").style.display='';
+    document.getElementById("socialsologn2").style.display='';
+    document.getElementById("socialsologn3").style.display='';
   }
 }
