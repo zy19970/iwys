@@ -4218,7 +4218,7 @@ cite {
   padding: 0.5rem 1rem;
   margin: 0.3rem 0;
   text-decoration: none;
-  font-size: 1.25rem;
+  font-size: 1.05rem;
   -webkit-border-radius: 0.3rem;
           border-radius: 0.3rem;
   background-color: #262626;
@@ -4904,6 +4904,13 @@ cite {
     padding: 0.3rem 0.8rem;
     font-size: small;
   }
+}
+
+@media only screen and ((max-width: 510px)) {
+  .socialsologn{
+    display: none;
+  }
+  
 }
 
 @media only screen and (max-width: 320px) {
