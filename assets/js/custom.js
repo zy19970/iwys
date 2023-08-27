@@ -20,6 +20,18 @@ window.onload=function(){
     document.getElementById("touchon").style.display = '';
     document.getElementById("about").style.display = '';
   }
+
+  if (window.screen.width > 500)
+  {
+    document.getElementById("socialsologn1").style.display='';
+    document.getElementById("socialsologn2").style.display='';
+    document.getElementById("socialsologn3").style.display='';
+  }
+  else{
+    document.getElementById("socialsologn1").style.display='none';
+    document.getElementById("socialsologn2").style.display='none';
+    document.getElementById("socialsologn3").style.display='none';
+  }
 }
 
 function disonload(){
