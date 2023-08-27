@@ -40,4 +40,9 @@ function disonload(){
     document.getElementById("touchon").style.display = '';
     document.getElementById("about").style.display = '';
   }
+
+  if (window.screen.width < 500)
+  {
+    document.getElementById("socialsologn").style.display='';
+  }
 }
