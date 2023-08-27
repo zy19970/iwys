@@ -4812,7 +4812,7 @@ cite {
   }
   .social_footer a {
     padding: 0.5rem 1rem;
-    font-size: 1.35rem;
+    font-size: 0.7rem;
     -webkit-border-radius: 0.3rem;
             border-radius: 0.3rem;
   }
@@ -4902,16 +4902,10 @@ cite {
   }
   .social_footer a {
     padding: 0.3rem 0.8rem;
-    font-size: small;
+    font-size: 0.7rem;
   }
 }
 
-@media only screen and ((max-width: 510px)) {
-  .socialsologn{
-    display: none;
-  }
-  
-}
 
 @media only screen and (max-width: 320px) {
   .post header .post_meta {
@@ -4947,11 +4941,4 @@ cite {
     width: 30%;
     height: auto;
   }
-}
-
-@media only screen and (min-width: 810px) and (max-width: 1200px ){
-  .socialsologn{
-    font-size: small;
-  }
-  
 }
