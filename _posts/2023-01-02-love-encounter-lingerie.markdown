@@ -8,10 +8,60 @@ brif: 拥抱亲密，拥抱爱
 description: 拥抱亲密，拥抱爱| Embrace Intimacy, Embrace Love. # Add post description (optional)
 tag: [Travel, Malaysia, Blogging]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+# 保暖内衣
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+<img src="https://s1.ax1x.com/2023/05/23/p9TnNY8.jpg" width="100%" height="auto">
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+
+<img src="https://s1.ax1x.com/2023/05/24/p97GRR1.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9TnUfS.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9oLVaV.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9oLEV0.jpg" width="100%" height="auto">
+
+<img src="https://s1.ax1x.com/2023/05/24/p97GWxx.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9Tn1OA.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9Tnlyd.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9oLmPU.jpg" width="100%" height="auto">
+
+
+<img src="https://s1.ax1x.com/2023/05/23/p9TnuWD.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9TnMSe.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9TndSg.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9TnwlQ.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/23/p9Tn0yj.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/24/p97G6IJ.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/24/p97Ggi9.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/24/p97G4sK.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/05/24/p97GoZD.jpg" width="100%" height="auto">
+
+
+
+
+
+# 打底裤
+
+# 裸感裤
+
+---
+
+**更多产品请关注微信小程序：**
+
+<div style="text-align: center;">
+<img src="{{site.baseurl}}//assets/img/miniQRcode.png" >
+</div>
+
+
+**更多信息请关注微信公众号：**
+
+<div style="text-align: center;">
+<img src="{{site.baseurl}}//assets/img/wxQRcode.png" >
+</div>
+
+
+**购买商品请访问微信商城：**
+
+
+<div style="text-align: center;">
+<img src="{{site.baseurl}}//assets/img/shopQRcode.png" >
+</div>
