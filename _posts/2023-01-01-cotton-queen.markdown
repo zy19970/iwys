@@ -10,12 +10,10 @@ tag: [Sweden, Travel, Forest]
 ---
 
 > 自然的呵护，健康的选择。 <cite>- 富裕灵</cite>
-
 <img src="https://s1.ax1x.com/2023/05/20/p95w2C9.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/19/ppteLkj.jpg" width="100%" height="auto">
 
 # 纯白基础款
-
 <img src="https://s1.ax1x.com/2023/03/17/ppGfTrq.jpg" width="50%" height="auto"><img src="https://s1.ax1x.com/2023/03/19/pptezcV.jpg" width="50%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/17/ppGf7q0.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/17/ppGfoMn.jpg" width="100%" height="auto">
@@ -25,10 +23,7 @@ tag: [Sweden, Travel, Forest]
 <img src="https://s1.ax1x.com/2023/03/19/ppte4pt.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/05/20/p95w6N4.jpg" width="100%" height="auto">
 
-
 # 经典马卡龙色系
-
-
 <img src="https://s1.ax1x.com/2023/03/19/ppteOts.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/19/ppteb7Q.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/19/ppteH0g.jpg" width="100%" height="auto">
@@ -41,25 +36,19 @@ tag: [Sweden, Travel, Forest]
 <img src="https://s1.ax1x.com/2023/03/19/pptevpq.jpg" width="100%" height="auto">
 
 
----
-
 **更多产品请关注微信小程序：**
-
 <div style="text-align: center;">
 <img src="{{site.baseurl}}//assets/img/miniQRcode.png" >
 </div>
 
 
 **更多信息请关注微信公众号：**
-
 <div style="text-align: center;">
 <img src="{{site.baseurl}}//assets/img/wxQRcode.png" >
 </div>
 
 
 **购买商品请访问微信商城：**
-
-
 <div style="text-align: center;">
 <img src="{{site.baseurl}}//assets/img/shopQRcode.png" >
 </div>
