@@ -43,16 +43,17 @@ tag: [Sweden, Travel, Forest]
 
 ---
 
-**更多信息请关注微信公众号：**
-
-<div style="text-align: center;">
-<img src="{{site.baseurl}}//assets/img/wxQRcode.png" >
-</div>
-
 **更多产品请关注微信小程序：**
 
 <div style="text-align: center;">
 <img src="{{site.baseurl}}//assets/img/miniQRcode.png" >
+</div>
+
+
+**更多信息请关注微信公众号：**
+
+<div style="text-align: center;">
+<img src="{{site.baseurl}}//assets/img/wxQRcode.png" >
 </div>
 
 
