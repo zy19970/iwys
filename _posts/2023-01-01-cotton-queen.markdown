@@ -43,11 +43,11 @@ tag: [Sweden, Travel, Forest]
 
 **更多信息请关注公众号：**
 
-<img src="/assets/img/wxQRcode.png" width="50%" height="auto">
+<img src="{{site.baseurl}}//assets/img/wxQRcode.png" width="50%" height="auto">
 
 **购买关注微信小商店：**
 
-<img src="/assets/img/wxQRcode.png" width="50%" height="auto">
+<img src="{{site.baseurl}}//assets/img/wxQRcode.png" width="50%" height="auto">
 
 
 
