@@ -45,6 +45,8 @@ tag: [Sweden, Travel, Forest]
 
 <img src="{{site.baseurl}}//assets/img/wxQRcode.png" width="50%" height="auto">
 
+[fig]({{site.baseurl}}//assets/img/wxQRcode.png)
+
 **购买关注微信小商店：**
 
 <img src="{{site.baseurl}}//assets/img/wxQRcode.png" width="50%" height="auto">
