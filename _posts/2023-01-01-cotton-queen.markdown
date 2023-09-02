@@ -43,20 +43,25 @@ tag: [Sweden, Travel, Forest]
 
 ---
 
-**更多信息请关注微信公众号和小程序：**
+**更多信息请关注微信公众号：**
 
 <div style="text-align: center;">
 <img src="{{site.baseurl}}//assets/img/wxQRcode.png" width="33%" height="auto">
+</div>
+
+**更多产品请关注微信小程序：**
+
+<div style="text-align: center;">
 <img src="{{site.baseurl}}//assets/img/miniQRcode.png" width="33%" height="auto">
-<div>
+</div>
 
 
-**购买商品请访问微信小商店：**
+**购买商品请访问微信商城：**
 
 
 <div style="text-align: center;">
-<img src="{{site.baseurl}}//assets/img/shopQRcode.png" width="40%" height="auto">
-<div>
+<img src="{{site.baseurl}}//assets/img/shopQRcode.png" width="33%" height="auto">
+</div>
 
 
 
