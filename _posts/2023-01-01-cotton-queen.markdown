@@ -41,11 +41,7 @@ tag: [Sweden, Travel, Forest]
 <img src="https://s1.ax1x.com/2023/03/19/pptevpq.jpg" width="100%" height="auto">
 
 
-**更多信息请关注公众号：**
-
-<img src="{{site.baseurl}}//assets/img/wxQRcode.png" width="50%" height="auto" link="{{site.baseurl}}//assets/img/wxQRcode.png">
-
-![fig]({{site.baseurl}}//assets/img/wxQRcode.png)
+**更多信息请关注公众号：**![fig]({{site.baseurl}}//assets/img/wxQRcode.png)
 
 **购买关注微信小商店：**
 
