@@ -43,9 +43,9 @@ tag: [Sweden, Travel, Forest]
 
 **更多信息请关注公众号：**
 
-<img src="{{site.baseurl}}//assets/img/wxQRcode.png" width="50%" height="auto">
+<img src="{{site.baseurl}}//assets/img/wxQRcode.png" width="50%" height="auto" link="{{site.baseurl}}//assets/img/wxQRcode.png">
 
-[fig]({{site.baseurl}}//assets/img/wxQRcode.png)
+!uopdate[fig]({{site.baseurl}}//assets/img/wxQRcode.png)
 
 **购买关注微信小商店：**
 
