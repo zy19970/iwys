@@ -17,10 +17,9 @@ tag: [Travel, Indonesia, Mountains]
 <img src="https://s1.ax1x.com/2023/08/26/pPNDnSI.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/08/26/pPNDZYd.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/05/ppEv0Cn.jpg" width="100%" height="auto">
-<img src="https://s1.ax1x.com/2023/08/26/pPNDnSI.jpg" width="100%" height="auto">
-<img src="https://s1.ax1x.com/2023/08/26/pPNDZYd.jpg" width="100%" height="auto">
-<img src="https://s1.ax1x.com/2023/03/05/ppEv0Cn.jpg" width="100%" height="auto">
-
+<img src="https://s1.ax1x.com/2023/03/05/ppEvRUJ.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/03/05/ppEv2E4.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/03/05/ppEvd4s.jpg" width="100%" height="auto">
 
 
 
