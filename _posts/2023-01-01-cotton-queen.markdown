@@ -10,6 +10,7 @@ tag: [Sweden, Travel, Forest]
 ---
 
 > 自然的呵护，健康的选择。 <cite>- 富裕灵</cite>
+
 <img src="https://s1.ax1x.com/2023/05/20/p95w2C9.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/19/ppteLkj.jpg" width="100%" height="auto">
 
@@ -24,10 +25,11 @@ tag: [Sweden, Travel, Forest]
 <img src="https://s1.ax1x.com/2023/05/20/p95w6N4.jpg" width="100%" height="auto">
 
 # 经典马卡龙色系
-<img src="https://s1.ax1x.com/2023/03/19/ppteOts.jpg" width="100%" height="auto">
+
 <img src="https://s1.ax1x.com/2023/03/19/ppteb7Q.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/19/ppteH0g.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/19/ppte7nS.jpg" width="100%" height="auto">
+<img src="https://s1.ax1x.com/2023/03/19/ppteOts.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/05/20/p95wc4J.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/19/ppteoX8.jpg" width="100%" height="auto">
 <img src="https://s1.ax1x.com/2023/03/19/ppteI6f.jpg" width="100%" height="auto">
@@ -52,15 +54,3 @@ tag: [Sweden, Travel, Forest]
 <div style="text-align: center;">
 <img src="{{site.baseurl}}//assets/img/shopQRcode.png" >
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
