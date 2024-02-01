@@ -1,1 +1,1 @@
-Sitemap: www.iwys.top/sitemap.xml
+Sitemap: /iwys/sitemap.xml
